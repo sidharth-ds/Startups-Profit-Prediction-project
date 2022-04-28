@@ -13,5 +13,5 @@
 * using Linear Regression
    * got an R2 score of 90%
 * using XGBoost:
-   * at learning rate=0.2, I got a CV score of 90%
+   * at learning rate=0.2, I got a CV score of 90%.
 * So, both Linear Regression and XGBoost shows that both models perform equally good in predicting the profits.
